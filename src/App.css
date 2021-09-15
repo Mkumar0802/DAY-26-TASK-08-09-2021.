@@ -46,21 +46,21 @@ body{
 }
 
 .card:nth-child(1) .features > li:nth-child(n + 5)::marker{
-  content:"✖️" ;
+  content:"❌" ;
 }
 
 .card:nth-child(1) .features > li:nth-child(n + 5){
-  opacity: 0.6%;
+  opacity: 0.6;
 }
 
 
 
 .card:nth-child(2) .features > li:last-child{
-  opacity: 0.6%;
+  opacity: 0.6;
 }
 
 .card:nth-child(2) .features > li:last-child::marker{
-  content:"✖️" ;
+  content:"❌" ;
 }
 
 
